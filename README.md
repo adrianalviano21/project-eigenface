@@ -69,3 +69,13 @@ streamlit run interface.py
     └── main.py 
 ```
 
+---
+
+### Creators 
+| Nama                         | NIM     |
+|-----------------------------|---------|
+| Adrian Alviano Susatyo      | L0124001|
+| Daniel Ferdian Napitupulu   | L0124008|
+| Diva Valencia Christianarta | L0124011|
+| Fauzil Azhim                | L0124015|
+
