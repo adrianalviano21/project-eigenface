@@ -30,6 +30,7 @@ Sistem pengenalan wajah berbasis metode **Eigenface**, dibangun menggunakan Pyth
 ---
 
 ### 2. Display Program
+![WhatsApp Image 2025-06-08 at 19 35 45_9db5dd6d](https://github.com/user-attachments/assets/b67a9dec-bf8e-4cbf-b266-f07ee8b84bdd)
 
 
 Contoh placeholder:
