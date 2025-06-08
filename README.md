@@ -31,7 +31,6 @@ Sistem pengenalan wajah berbasis metode **Eigenface**, dibangun menggunakan Pyth
 
 ### 2. Display Program
 
-*(Bagian ini dapat kamu isi dengan tangkapan layar aplikasi, alur kerja, atau demo visual lainnya)*
 
 Contoh placeholder:
 
