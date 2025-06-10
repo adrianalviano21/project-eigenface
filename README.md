@@ -1,10 +1,10 @@
-# 🧠 Face Recognition with Eigenface
+# Face Recognition with Eigenface
 
-Sistem pengenalan wajah berbasis metode **Eigenface**, dibangun menggunakan Python dan Streamlit. Program ini mengenali wajah berdasarkan kemiripan fitur dengan gambar-gambar yang ada di dataset, menggunakan analisis vektor eigen dan pembobotan ruang wajah.
+Sistem pengenalan wajah berbasis metode **Eigenface**, dibangun menggunakan Python dan Streamlit. Program ini mengenali wajah berdasarkan kemiripan fitur dengan gambar-gambar yang ada di dataset, menggunakan analisis vektor eigen dan pembobotan ruang wajah. Program ini dibuat dalam rangka menyelesaikan Project Base Learning I Aljabar linear
 
 ---
 
-## 📋 Detail Content
+## Detail Content
 
 1. [Basic Information](#1-basic-information)  
 2. [Display Program](#2-display-program)  
@@ -47,12 +47,12 @@ Contoh placeholder:
 
 ```
 ### 3. How to Run 
-✅ **Instalasi Library**
+**Instalasi Library**
 ```text
 pip install -r requirements.txt
 ```
 
-🚀 **Jalankan Antarmuka Streamlit di Terminal VScode atau CMD**
+**Jalankan Antarmuka Streamlit di Terminal VScode atau CMD**
 ```text
 streamlit run interface.py
 ```
